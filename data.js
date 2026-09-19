@@ -200,30 +200,6 @@ window.PORTFOLIO_ITEMS = [
     "full": "assets/full/bd-wedding-7.webp"
   },
   {
-    "section": "bd",
-    "project": "Única",
-    "title": "Única — cover",
-    "credit": "Dessin et couleur : Franco Céspedes",
-    "thumb": "assets/thumbs/bd-16-nica-cover.webp",
-    "full": "assets/full/bd-16-nica-cover.webp"
-  },
-  {
-    "section": "bd",
-    "project": "Única",
-    "title": "Única — 1",
-    "credit": "Dessin et couleur : Franco Céspedes",
-    "thumb": "assets/thumbs/bd-17-nica-1.webp",
-    "full": "assets/full/bd-17-nica-1.webp"
-  },
-  {
-    "section": "bd",
-    "project": "Única",
-    "title": "Única — 3",
-    "credit": "Dessin et couleur : Franco Céspedes",
-    "thumb": "assets/thumbs/bd-18-nica-3.webp",
-    "full": "assets/full/bd-18-nica-3.webp"
-  },
-  {
     "section": "illustration",
     "project": "Illustration",
     "title": "Stranger Things",
